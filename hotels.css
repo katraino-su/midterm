@@ -1,0 +1,16 @@
+body {
+    font-family: 'Jomolhari', serif;
+}
+
+h1{ 
+    font-size: 80px;
+}
+
+.heaven {
+    color: white;
+    background-color: rgba(107, 108,108, .8);
+    font-size: 25px;
+    text-align: center;
+    width: 100%;
+}
+
